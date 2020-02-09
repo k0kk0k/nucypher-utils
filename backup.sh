@@ -21,7 +21,6 @@ check_path() {
     fi
 }
 
-
 echo "Сhecking backup directories..."
 for folder in $NU_VENV_FOLDER $ETH_FOLDER $NU_MAIN_FOLDER; do
     check_path $folder
