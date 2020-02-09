@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BACKUP_NAME="nucypher_backups"
+BACKUP_NAME="nucypher"
 # folder where nucypher-venv stored
 NU_VENV_FOLDER=~/nucypher-venv
 # folder where keys stored
