@@ -6,7 +6,7 @@ NU_VENV_FOLDER=~/nucypher-venv
 # folder where keys stored
 NU_MAIN_FOLDER=~/.local/share/nucypher/
 ETH_FOLDER=~/.ethereum
-CURRENT_DATE=$(TZ=UTC-3 date +"%d-%m-%Y_%H:%M:%S")
+CURRENT_DATE=$(TZ=UTC-3 date +"%d-%m-%Y_%H-%M-%S")
 green="\e[92m"
 red="\e[91m"
 normal="\e[39m"
