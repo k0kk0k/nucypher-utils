@@ -2,7 +2,7 @@
 
 BACKUP_NAME="nucypher"
 # folder where nucypher-venv stored
-NU_VENV_FOLDER=~/nucypher/*env
+NU_VENV_FOLDER=~/*venv
 # folder where keys stored
 NU_MAIN_FOLDER=~/.local/share/nucypher/
 ETH_FOLDER=~/.ethereum
